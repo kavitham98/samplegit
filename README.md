@@ -1,0 +1,2 @@
+# samplegit
+to examine git
